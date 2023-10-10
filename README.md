@@ -35,37 +35,37 @@ Files:<br/>
 <h3>6. Spam Mail Prediction using Logistic Regression</h3>
 Description: In this project, we create a spam mail prediction model using logistic regression. The goal is to classify emails as either spam or not spam based on their content and features.<br>
 Files:<br/>
-     spam_mail_prediction.ipynb: Jupyter Notebook with code and analysis.<br/>
-     spam_mail_data.csv: Dataset containing email features for training and testing.<br/>
+    <p> spam_mail_prediction.ipynb: Jupyter Notebook with code and analysis.<br/>
+     spam_mail_data.csv: Dataset containing email features for training and testing.</p>
 
 
 <h2>Getting Started</h2>
-Clone this repository to your local machine using the following command:
+<p>Clone this repository to your local machine using the following command:</p>
 Copy code
-git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git
-Navigate to the project folder of your choice by using  cd <project-name>.
-Refer to the respective project's README or Jupyter Notebook for detailed instructions on running the code and understanding the analysis.
+<p>git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git</p>
+<p></p>Navigate to the project folder of your choice by using  cd <project-name>.</p>
+<p>Refer to the respective project's README or Jupyter Notebook for detailed instructions on running the code and understanding the analysis.</p>
 
 <h2>Dependencies</h2>
-Make sure you have the following dependencies installed to run the projects:
-Python 3.x
-Jupyter Notebook
-NumPy
-pandas
-scikit-learn
-matplotlib
-seaborn
-pyttsx3 (for text-to-speech functionality, only required for specific projects)
+Make sure you have the following dependencies installed to run the projects:<br/>
+Python 3.x<br/>
+Jupyter Notebook<br/>
+NumPy<br/>
+pandas<br/>
+scikit-learn<br/>
+matplotlib<br/>
+seaborn<br/>
+pyttsx3 (for text-to-speech functionality, only required for specific projects)<br/>
 
 
 <h2>Contributing</h2>
 If you would like to contribute to this repository, please follow these guidelines:
 
 <h3>Fork the repository.</h3>
-1. Create a new branch for your feature or bug fix: git checkout -b feature-name.
+<p></p>1. Create a new branch for your feature or bug fix: git checkout -b feature-name.
 2. Make your changes and commit them with descriptive messages.
 3. Push your changes to your fork: git push origin feature-name.
-4. Create a pull request to the main repository.
+4. Create a pull request to the main repository.</p>
 
 <h2>License</h2>
 This repository is licensed under the MIT License. See the LICENSE file for details.
