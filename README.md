@@ -42,8 +42,8 @@ Files:<br/>
 <h2>Getting Started</h2>
 <p>Clone this repository to your local machine using the following command:</p>
 Copy code
-<p>git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git
- Navigate to the project folder of your choice by using  cd <project-name>.
+<p>git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git<br/>
+ Navigate to the project folder of your choice by using  cd <project-name>.<br/>
  Refer to the respective project's README or Jupyter Notebook for detailed instructions on running the code and understanding the analysis.</p>
 
 <h2>Dependencies</h2>
