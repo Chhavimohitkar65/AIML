@@ -3,8 +3,8 @@
 <br/>
 Below is an overview of the projects included in this repository:
 <br/>
-<h2>Project List-----</h2>
 <br/>
+<h2>Project List-----</h2>
 <h3>1. Customer Segmentation using K-Means Clustering</h3>
 <p>Description: This project explores customer segmentation using the K-Means clustering algorithm.
 Customer data is grouped into clusters based on similarities in their behavior, allowing for more targeted marketing strategies.</p>
