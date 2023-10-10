@@ -51,13 +51,13 @@ Copy code
 <br/>
 <h2>Dependencies</h2>
 Make sure you have the following dependencies installed to run the projects:<br/>
-<p>&nbsp;Python 3.x</p>
-<p>&nbsp;Jupyter Notebook</p>
-<p>&nbsp;NumPy</p>
-<p>&nbsp;pandas</p>
-<p>&nbsp;scikit-learn</p>
-<p>&nbsp;matplotlib</p>
-<p>&nbsp;seaborn</p>
+<p>&nbsp;Python 3.x</br>
+&nbsp;Jupyter Notebook</br>
+&nbsp;NumPy</br>
+&nbsp;pandas</br>
+&nbsp;scikit-learn</br>
+&nbsp;matplotlib<</br>
+&nbsp;seaborn</br>
 <p>&nbsp;pyttsx3 (for text-to-speech functionality, only required for specific projects)</p>
 <br/>
 <br/>
