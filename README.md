@@ -1,5 +1,6 @@
 <h1>Machine Learning Projects Repository </h1>
-This GitHub repository contains a collection of machine-learning projects that demonstrate various techniques and algorithms for solving different real-world problems. Each project is designed to showcase a specific aspect of machine learning, from clustering and classification to incorporating text-to-speech functionality using the pyttsx3 library. Below is an overview of the projects included in this repository:
+<p>This GitHub repository contains a collection of machine-learning projects that demonstrate various techniques and algorithms for solving different real-world problems. Each project is designed to showcase a specific aspect of machine learning, from clustering and classification to incorporating text-to-speech functionality using the pyttsx3 library. </p>
+Below is an overview of the projects included in this repository:
 
 Project List-----
 <h3>1. Customer Segmentation using K-Means Clustering</h3>
