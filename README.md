@@ -42,9 +42,9 @@ Files:<br/>
 <h2>Getting Started</h2>
 <p>Clone this repository to your local machine using the following command:</p>
 Copy code
-<p>git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git</p>
-<p></p>Navigate to the project folder of your choice by using  cd <project-name>.</p>
-<p>Refer to the respective project's README or Jupyter Notebook for detailed instructions on running the code and understanding the analysis.</p>
+<p>git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git
+ Navigate to the project folder of your choice by using  cd <project-name>.
+ Refer to the respective project's README or Jupyter Notebook for detailed instructions on running the code and understanding the analysis.</p>
 
 <h2>Dependencies</h2>
 Make sure you have the following dependencies installed to run the projects:<br/>
@@ -62,7 +62,7 @@ pyttsx3 (for text-to-speech functionality, only required for specific projects)<
 If you would like to contribute to this repository, please follow these guidelines:
 
 <h3>Fork the repository.</h3>
-<p></p>1. Create a new branch for your feature or bug fix: git checkout -b feature-name.
+<p>1. Create a new branch for your feature or bug fix: git checkout -b feature-name.
 2. Make your changes and commit them with descriptive messages.
 3. Push your changes to your fork: git push origin feature-name.
 4. Create a pull request to the main repository.</p>
