@@ -40,15 +40,16 @@ Description: In this project, we create a spam mail prediction model using logis
 Files:<br/>
     <p> spam_mail_prediction.ipynb: Jupyter Notebook with code and analysis.<br/>
      spam_mail_data.csv: Dataset containing email features for training and testing.</p>
-
-
+<br/>
+<br/>
 <h2>Getting Started</h2>
 <p>Clone this repository to your local machine using the following command:</p>
 Copy code
 <p>git clone https://github.com/Chhavimohitkar65/machine-learning-projects.git<br/>
  Navigate to the project folder of your choice by using  cd <project-name>.<br/>
  Refer to the respective project's README or Jupyter Notebook for detailed instructions on running the code and understanding the analysis.</p>
-
+<br/>
+<br/>
 <h2>Dependencies</h2>
 Make sure you have the following dependencies installed to run the projects:<br/>
 Python 3.x<br/>
@@ -59,17 +60,18 @@ scikit-learn<br/>
 matplotlib<br/>
 seaborn<br/>
 pyttsx3 (for text-to-speech functionality, only required for specific projects)<br/>
-
-
+<br/>
+<br/>
 <h2>Contributing</h2>
 If you would like to contribute to this repository, please follow these guidelines:
-
+<br/>
 <h3>Fork the repository.</h3>
 <p>1. Create a new branch for your feature or bug fix: git checkout -b feature-name.<br/>
 2. Make your changes and commit them with descriptive messages.<br/>
 3. Push your changes to your fork: git push origin feature-name.<br/>
 4. Create a pull request to the main repository.</p>
-
+<br/>
+<br/>
 <h2>License</h2>
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
