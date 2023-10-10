@@ -10,8 +10,8 @@ Below is an overview of the projects included in this repository:
 Description: This project explores customer segmentation using the K-Means clustering algorithm.
 Customer data is grouped into clusters based on similarities in their behavior, allowing for more targeted marketing strategies.<br/>
 Files:<br/>
-      customer_segmentation.ipynb: Jupyter Notebook with code and analysis.<br/>
-      customer_data.csv: Sample customer data for analysis.
+    &nbsp; customer_segmentation.ipynb: Jupyter Notebook with code and analysis.<br/>
+    &nbsp;customer_data.csv: Sample customer data for analysis.
 <br/>
 <br/>
 <h3>3. Heart Disease Prediction using Logistic Regression with Text-to-Speech</h3>
